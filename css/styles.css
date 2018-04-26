@@ -1,0 +1,9 @@
+body{
+background-image: url("../images/backgrounds/landing.jpg");
+background-repeat: no-repeat;
+}
+
+.logo{
+  padding-left: 400px;
+  padding-bottom: 2000px;
+}
