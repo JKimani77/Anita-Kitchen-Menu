@@ -94,3 +94,11 @@ h{
 h0{
   font-size: 25px;
 }
+.edit{
+  text-align: right;
+  text-indent: inherit;
+}
+.edit2{
+  text-align: left;
+  text-indent: inherit;
+}
