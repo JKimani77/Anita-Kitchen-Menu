@@ -113,3 +113,17 @@ h7{
   background-size: cover;
   height: 650px;
 }
+.menu{
+  background-color: white;
+}
+p11{
+  font-size: 20px;
+}
+.row4{
+  text-align: center;
+text-indent: inherit;
+border: 50px green;
+border-color: green;
+margin: 10px;
+
+}
