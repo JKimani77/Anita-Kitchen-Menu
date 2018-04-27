@@ -19,3 +19,21 @@ p{
   font-size: 20px;
   font-family: fantasy;
 }
+.breakfast{
+  background-image: url("../images/foodtop/breakfast.jpg");
+  background-size: cover;
+
+}
+
+.lunch{
+  background-image: url("../images/foodtop/lunch.jpg");
+  background-size: cover;
+}
+.dinner{
+  background-image: url("../images/foodtop/dinner.jpg");
+  background-image:linear-gradient(60px);
+}
+.col-md-3{
+  text-align: center;
+
+}
