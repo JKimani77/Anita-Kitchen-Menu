@@ -102,3 +102,14 @@ h0{
   text-align: left;
   text-indent: inherit;
 }
+h8{
+  font-size: 25px;
+}
+h7{
+  font-size: 25px;
+}
+.middle{
+  background-image:url("../images/backgrounds/foodsBg.jpg");
+  background-size: cover;
+  height: 650px;
+}
