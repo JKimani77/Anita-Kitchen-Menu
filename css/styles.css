@@ -51,8 +51,17 @@ p{
 }
 
 .head1{
-  background-color: grey;
+  background-color: #e0e0d2;
+  font-size: 50px;
+  padding: 9px;
 }
+
+.head2{
+  background-color: #ff5c33;
+  font-size: 50px;
+  padding: 9px;
+}
+
 
 .fastfood{
   float:left;
@@ -71,8 +80,17 @@ p{
   width: 200px;
 }
 
-
+.drinks img{
+  padding-top: 70px;
+}
 
 .as{
   padding-top: 70px;
+}
+
+h{
+  font-size: 30px;
+}
+h0{
+  font-size: 25px;
 }
