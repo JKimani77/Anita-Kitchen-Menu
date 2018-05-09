@@ -3,14 +3,15 @@
 This project shows menus and meals offered by Anita's kitchen and also shows different styling of bootstraps.
 In addition, it also shows some of theservices offered Happy hour and party time.
 
-###Getting Started To be able to check the website you should click on this link: 
+###Getting Started To be able to check the website you should click on this link: https://jkimani77.github.io/Anita-Kitchen-Menu/
 
 ###Installation and Deployment
 
 Open Your Browser;Prefarrably Google Chrome
 Clone my repository.
 
-###Technologies 
+###Technologies
+
 - HTML 
 - The web framework used was CSS 
 - The styling sheet that was used was javaScript 
